@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hey! I'm Taylor
+
+### About Me
+- Incoming Amazon SDE 🛠 
+- Summa Cum Laude UCF Graduate 🎓 
+- Cloud Computing Enthusiast ☁
+- Currently Learning Rust 🦀
+
 
 <!--
 **TBean18/TBean18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
