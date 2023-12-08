@@ -1,7 +1,7 @@
 ## Hey! I'm Taylor
 
 ### About Me
-- Incoming Amazon SDE 🛠 
+- Amazon SDE 🛠 
 - Summa Cum Laude UCF Graduate 🎓 
 - Cloud Computing Enthusiast ☁
 - Currently Learning Rust 🦀
